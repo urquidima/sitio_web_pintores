@@ -1,0 +1,14 @@
+{
+  "name": "sitioweb",
+  "version": "1.0.0",
+  "description": "sitio web estatico con express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "manuel alejandro urquidi aguilar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
